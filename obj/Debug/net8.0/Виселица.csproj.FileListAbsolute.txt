@@ -1,0 +1,14 @@
+C:\Users\top\source\repos\Виселица\Виселица\obj\Debug\net8.0\Виселица.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\top\source\repos\Виселица\Виселица\obj\Debug\net8.0\Виселица.AssemblyInfoInputs.cache
+C:\Users\top\source\repos\Виселица\Виселица\obj\Debug\net8.0\Виселица.AssemblyInfo.cs
+C:\Users\top\source\repos\Виселица\Виселица\obj\Debug\net8.0\Виселица.csproj.CoreCompileInputs.cache
+C:\Users\top\source\repos\Виселица\Виселица\bin\Debug\net8.0\Виселица.exe
+C:\Users\top\source\repos\Виселица\Виселица\bin\Debug\net8.0\Виселица.deps.json
+C:\Users\top\source\repos\Виселица\Виселица\bin\Debug\net8.0\Виселица.runtimeconfig.json
+C:\Users\top\source\repos\Виселица\Виселица\bin\Debug\net8.0\Виселица.dll
+C:\Users\top\source\repos\Виселица\Виселица\bin\Debug\net8.0\Виселица.pdb
+C:\Users\top\source\repos\Виселица\Виселица\obj\Debug\net8.0\Виселица.dll
+C:\Users\top\source\repos\Виселица\Виселица\obj\Debug\net8.0\refint\Виселица.dll
+C:\Users\top\source\repos\Виселица\Виселица\obj\Debug\net8.0\Виселица.pdb
+C:\Users\top\source\repos\Виселица\Виселица\obj\Debug\net8.0\Виселица.genruntimeconfig.cache
+C:\Users\top\source\repos\Виселица\Виселица\obj\Debug\net8.0\ref\Виселица.dll
